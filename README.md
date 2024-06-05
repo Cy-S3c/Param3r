@@ -1,4 +1,4 @@
-# Paramer A Link and Parameter Scraper
+# Param3r_v0.1 - A Link and Parameter Scraper
 
 ## Overview
 
