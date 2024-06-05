@@ -22,8 +22,8 @@ Link and Parameter Scraper is a Python tool that uses the Scrapy framework to cr
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/link-parameter-scraper.git
-    cd link-parameter-scraper
+    git clone https://github.com/Cy-S3c/Param3r.git
+    cd Param3r
     ```
 
 2. Install the required packages:
